@@ -1,3 +1,5 @@
+# Author of this file: Lydia Wang!
+
 file = open("states.txt", "r")
 d={}
 for line in file:
