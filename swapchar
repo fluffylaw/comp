@@ -1,3 +1,5 @@
+# Author of this file: Lydia Wang!
+
 def swapchars(string):
     s = string.lower()   
     print (string)
